@@ -369,7 +369,9 @@
     background-color: #fff;
     padding-left: 20px;
     padding-right: 20px;
-    height: 200px;
   }
+body:{
+  padding-bottom: 0px;
+}
 
 
