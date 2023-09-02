@@ -21,10 +21,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="w-full bg-bodyColor font-bodyFont text-white px-4">
-        <div className='max-w-screen-xl mx-auto'>
+        <div>
           <Header />
-          
-      
           {children}
           <Footer />
         </div>
