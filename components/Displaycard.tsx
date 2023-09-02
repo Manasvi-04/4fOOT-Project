@@ -13,19 +13,19 @@ const DisplayCard = () => {
         btnText="Donate"
       />
       <OutCard
-        image={require("/Images/dog 2.jpg")}
+        image={require("/Images/dog2.jpg")}
         title="Dog Boarding"
         subTitle="Home for Paws"
         btnText="Shelter"
       />
       <OutCard
-        image={require("/Images/dog 3.jpg")}
+        image={require("/Images/dog3.jpg")}
         title="Medical Care"
         subTitle="Care for Paws"
         btnText="Treatments"
       />
       <OutCard
-        image={require("/Images/backimage.jpg")}
+        image={require("/Images/dog4.jpg")}
         title="Food"
         subTitle="Food for Paws"
         btnText="Fooding"
